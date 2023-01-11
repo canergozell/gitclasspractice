@@ -17,5 +17,11 @@ public class DecimalNumbers {
         System.out.println(gender);
         System.out.println(number);
         System.out.println(smart);
+        System.out.println(smart);
+        System.out.println(smart);
+        System.out.println(smart);
+        System.out.println(smart);
+        System.out.println(smart);
+        System.out.println(smart);
     }
 }
